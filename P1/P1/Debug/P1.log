@@ -1,0 +1,4 @@
+﻿  HelloWorld.cpp
+e:\dev\p1\p1\helloworld.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  P1.vcxproj -> E:\dev\P1\Debug\P1.exe
+  P1.vcxproj -> E:\dev\P1\Debug\P1.pdb (Partial PDB)
